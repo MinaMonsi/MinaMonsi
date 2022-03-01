@@ -1,4 +1,4 @@
-<h2> Hi, I'm Marina Monsivais! <img src="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm" width="50"></h2> 👋
+<h2> Hi, I'm Marina Monsivais! <img src="<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>" width="50"></h2>
 
 <!--
 **MinaMonsi/MinaMonsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
