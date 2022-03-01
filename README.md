@@ -1,5 +1,5 @@
 <h2> Hi, I'm Marina Monsivais!</h2> 
-<img  align='left' src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="200">
+<img  align='left' src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="100">
 
      const marina = {
       pronouns: "she/her",
