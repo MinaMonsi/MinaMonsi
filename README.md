@@ -1,5 +1,5 @@
 <h2> Hi, I'm Marina Monsivais!</h2>
-
+<img srv = "https://pbs.twimg.com/profile_banners/1444281872/1581290479/1500x500">
 <!--
 **MinaMonsi/MinaMonsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 - 👯 I’m looking to collaborate with others so that I can learn and continue to grow as a developer.
 - 🤔 I’m looking for help with ...
