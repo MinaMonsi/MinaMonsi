@@ -6,7 +6,7 @@
       pronouns: "she/her",
       interested_in: "solving problems, collaborating, and teamwork",
       currently_working_on: "🖥️ building websites and 💃improving my dancing skills🕺",
-      email: "✉️ minamonsi@me.com"
+      email: "minamonsi@me.com"
      }
 
 - I :heart: meeting new people. Feel free to connect with me via:  
