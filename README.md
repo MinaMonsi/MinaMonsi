@@ -1,5 +1,6 @@
 <h2> Hi, I'm Marina Monsivais!</h2>
-<img src="https://pbs.twimg.com/profile_banners/1444281872/1581290479/1500x500">
+
+[![Linkedin: MarinaMonsivais](https://img.shields.io/badge/-MarinaMonsivais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/marinamonsivais-webdev/)
 
 [![Twitter: MinaMonsi ](https://img.shields.io/twitter/follow/MinaMonsi?style=social)](https://twitter.com/minamonsi)
 
