@@ -5,7 +5,7 @@
      const marina = {
       pronouns: "she/her",
       interested_in: "solving problems, collaborating, and teamwork",
-      current_working_on: "websites, vocal technique, and improving my dancing skills",
+      current_working_on: "websites, 🎶vocal technique, and improving my dancing skills",
       email: "minamonsi@me.com"
      }
 
