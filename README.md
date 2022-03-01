@@ -1,4 +1,4 @@
-<img  align='left' src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="100"><br />
+<img  align='left' src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="90"><br />
 
 <h2>I'm Marina Monsivais!</h2>
 
