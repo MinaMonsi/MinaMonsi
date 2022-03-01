@@ -1,5 +1,5 @@
 <h2> Hi, I'm Marina Monsivais!</h2>
-<img srv = "https://pbs.twimg.com/profile_banners/1444281872/1581290479/1500x500">
+<img src="https://pbs.twimg.com/profile_banners/1444281872/1581290479/1500x500" />
 <!--
 **MinaMonsi/MinaMonsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
