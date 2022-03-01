@@ -7,7 +7,8 @@
       email: "minamonsi@me.com"
      }
 
-- :briefcase:I enjoy meeting new people. Feel free to connect with me via: [![Linkedin: MarinaMonsivais](https://img.shields.io/badge/-MarinaMonsivais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/marinamonsivais-webdev/)
+- :briefcase: I enjoy meeting new people.
+- Feel free to connect with me via: [![Linkedin: MarinaMonsivais](https://img.shields.io/badge/-MarinaMonsivais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/marinamonsivais-webdev/)
   [![Twitter: MinaMonsi ](https://img.shields.io/twitter/follow/MinaMonsi?style=social)](https://twitter.com/minamonsi)
 
 <!--
