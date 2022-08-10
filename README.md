@@ -6,6 +6,7 @@
       pronouns: "she/her",
       interested_in: "solving problems, collaborating, and teamwork",
       currently_working_on: "🖥️ building websites and 💃improving my dancing skills🕺",
+      curently_learning: "Angular and TypeScript",
       email: "minamonsi@me.com",
       message: 'I ♥️ meeting new people. Feel free to connect with me on social media.'
      }
